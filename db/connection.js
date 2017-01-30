@@ -1,7 +1,6 @@
 const Sequelize = require('sequelize');
 const keys = require('./../keys.js');
 
-const connection = 'blitz-quiz.cxcxj7rsgusu.us-west-2.rds.amazonaws.com:3306';
 const sequelize = new Sequelize(keys.DB_CONNSTR, {
   dialect: 'postgres',
   ssl: true,
