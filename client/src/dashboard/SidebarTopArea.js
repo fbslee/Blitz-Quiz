@@ -25,7 +25,7 @@ const SidebarTopArea = (props) => {
   let populateClasses = (someClass, i) => {
     if(someClass === currentClass){
     return(
-    <MenuItem eventKey={someClass.id} key={i} active onClick={() => {props.selectClass(someClass);}}> {someClass.className} </MenuItem>
+    <MenuItem eventKey={someClass.id} key={i} active> {someClass.className} </MenuItem>
     );
     } else {
       return(
