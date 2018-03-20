@@ -1,0 +1,72 @@
+module.exports = [
+  {
+    "id": 2,
+    "type": "Short Answer",
+    "body": "Who is the most famous horse?",
+    "answer": "Black Beauty",
+    "timer": 0,
+    "a": null,
+    "b": null,
+    "c": null,
+    "d": null,
+    "createdAt": "2017-01-28 21:45:59.810000",
+    "updatedAt": "2017-01-28 21:45:59.810000",
+    "testId": 1
+  },
+  {
+    "id": 3,
+    "type": "Short Answer",
+    "body": "Who is the only human horse hybrid?",
+    "answer": "Sarah Jessica Parker",
+    "timer": 0,
+    "a": null,
+    "b": null,
+    "c": null,
+    "d": null,
+    "createdAt": "2017-01-28 21:45:59.810000",
+    "updatedAt": "2017-01-28 21:45:59.810000",
+    "testId": 1
+  },
+  {
+    "id": 4,
+    "type": "Short Answer",
+    "body": "How big is a whale?",
+    "answer": "Like very big",
+    "timer": 0,
+    "a": null,
+    "b": null,
+    "c": null,
+    "d": null,
+    "createdAt": "2017-01-28 21:45:59.810000",
+    "updatedAt": "2017-01-28 21:45:59.810000",
+    "testId": 2
+  },
+  {
+    "id": 5,
+    "type": "Short Answer",
+    "body": "Is the hole on the top of a whale its butthole?",
+    "answer": "No, it is a blow hole",
+    "timer": 0,
+    "a": null,
+    "b": null,
+    "c": null,
+    "d": null,
+    "createdAt": "2017-01-28 21:45:59.810000",
+    "updatedAt": "2017-01-28 21:45:59.810000",
+    "testId": 2
+  },
+  {
+    "id": 1,
+    "type": "Short Answer",
+    "body": "What is the best horse?",
+    "answer": "Unicorn",
+    "timer": 0,
+    "a": null,
+    "b": null,
+    "c": null,
+    "d": null,
+    "createdAt": "2017-01-28 21:45:59.810000",
+    "updatedAt": "2017-01-28 21:45:59.810000",
+    "testId": 1
+  }
+];
